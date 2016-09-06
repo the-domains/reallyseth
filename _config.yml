@@ -1,28 +1,40 @@
-name: reallyseth
-favicon: null
-layout_spectrum: 0.9675193771254271
-typography_spectrum: 0.40412174887023866
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9675193771254271
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.001757408026605844
+  brandStrength: 0.4374472494237125
+  rhythmicContrast: 0.6756888183299452
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.4374472494237125
-  lightness: 0.13571439357474446
-  saturation: 0.0017574080266058445
-  rhythmicContrast: 0.6756888183299452
+  lightness: 0.1357143935747445
 purpose: []
+favicon: null
+name: reallyseth
+typography_spectrum: 0.4041217488702387
