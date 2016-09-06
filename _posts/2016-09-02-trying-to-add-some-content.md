@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-02T18:02:24.224Z'
+datePublished: '2016-09-03T03:29:23.330Z'
 sourcePath: _posts/2016-09-02-trying-to-add-some-content.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T18:02:17.928Z'
+dateModified: '2016-09-03T03:29:22.920Z'
 title: ''
 publisher: {}
 description: Trying to add some content.
-starred: false
+starred: true
 _type: Blurb
 
 ---
